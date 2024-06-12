@@ -3325,6 +3325,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C1525"
+			(at 167.64 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6b4fe396-7293-4595-8a85-6cd70012238a")
 		)
@@ -3387,6 +3396,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 187.96 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C2858031"
 			(at 187.96 67.31 0)
 			(effects
 				(font
@@ -3523,6 +3541,15 @@
 			)
 		)
 		(property "Description" "Hi-Speed USB Host, Device or OTG PHY with ULPI Interface"
+			(at 160.02 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C108383"
 			(at 160.02 93.98 0)
 			(effects
 				(font
@@ -3759,6 +3786,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C1525"
+			(at 72.39 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9fbed487-17ee-44b7-b8a1-1d91391e65bc")
 		)
@@ -3800,7 +3836,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV"
 			(at 83.82 74.93 0)
 			(effects
 				(font
@@ -3809,7 +3845,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/USB-Connectors_G-Switch-GT-USB-7010ASV_C2988369.html"
 			(at 83.82 74.93 0)
 			(effects
 				(font
@@ -3818,7 +3854,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+		(property "Description" "USB 2.0 3A 1 260℃ Surface Mount，Right Angle 16P Female -40℃~+85℃ Gold High Conductivity Copper Type-C SMD USB Connectors ROHS "
+			(at 80.01 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C2988369"
 			(at 80.01 74.93 0)
 			(effects
 				(font
@@ -3933,6 +3978,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 100.33 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C695126"
 			(at 100.33 48.26 0)
 			(effects
 				(font
@@ -4133,6 +4187,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 115.57 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C1512022"
 			(at 115.57 101.6 0)
 			(effects
 				(font
@@ -4345,6 +4408,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C1512022"
+			(at 109.22 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "84202643-e2a1-4b2e-afc4-71fc5e49316d")
 		)
@@ -4481,6 +4553,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C1985382"
+			(at 124.46 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8525c7ee-27eb-4618-90de-9e77a8bd1bbb")
 		)
@@ -4543,6 +4624,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 203.2 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C2858031"
 			(at 203.2 67.31 0)
 			(effects
 				(font
@@ -4621,6 +4711,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C25744"
+			(at 124.46 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a515bc46-a7a3-4f4f-b33b-cf6c1fb3ff55")
 		)
@@ -4683,6 +4782,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 127 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C25752"
 			(at 127 119.38 0)
 			(effects
 				(font

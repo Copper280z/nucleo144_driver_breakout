@@ -21314,6 +21314,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C1525"
+			(at 389.89 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "244da4ce-648d-4858-82e4-1e4ec99eb08f")
 		)
@@ -21374,6 +21383,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 314.96 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C11702"
 			(at 314.96 374.65 0)
 			(effects
 				(font
@@ -21652,6 +21670,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C11702"
+			(at 453.39 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "015ab605-456b-49ae-bd2e-3098fd9c9bf7")
 		)
@@ -21721,6 +21748,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C1525"
+			(at 269.24 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "44fff7e1-9850-492d-87ca-be77b5c5a80e")
 		)
@@ -21781,6 +21817,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 198.12 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C11702"
 			(at 198.12 346.71 0)
 			(effects
 				(font
@@ -22126,6 +22171,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C11702"
+			(at 438.15 306.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5a03767f-883a-4f47-993d-093fbd9b7171")
 		)
@@ -22186,6 +22240,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 57.15 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C11702"
 			(at 57.15 370.84 0)
 			(effects
 				(font
@@ -22332,6 +22395,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C11702"
+			(at 184.15 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3a37fc40-72b0-4388-a653-e1638b621b8e")
 		)
@@ -22399,6 +22471,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C25079"
+			(at 361.95 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cdef0ddb-e7e2-40dd-b788-b2b2a82f8a7a")
 		)
@@ -22422,6 +22503,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "19d1e820-3e5c-4ce7-84c5-0f2bfb7aa8c0")
 		(property "Reference" "C4"
 			(at 131.064 295.91 0)
@@ -22460,6 +22542,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 137.16 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C1525"
 			(at 137.16 297.18 0)
 			(effects
 				(font
@@ -22601,6 +22692,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 259.08 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C1525"
 			(at 259.08 341.63 0)
 			(effects
 				(font
@@ -23074,6 +23174,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C25079"
+			(at 483.87 293.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2350ce1c-31a3-46e0-bc44-4b97474abcba")
 		)
@@ -23348,6 +23457,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C1525"
+			(at 511.81 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0960e812-7509-4a18-bb06-329892560fbd")
 		)
@@ -23482,6 +23600,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C1525"
+			(at 455.93 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "241dc763-494e-408f-96b1-b331d7e0edb2")
 		)
@@ -23543,6 +23670,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 66.04 306.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C1525"
 			(at 66.04 306.07 0)
 			(effects
 				(font
@@ -23913,6 +24049,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C25079"
+			(at 102.87 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6b7308d4-533f-4264-b856-6c86df27ad17")
 		)
@@ -23973,6 +24118,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 341.63 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C11702"
 			(at 341.63 340.36 0)
 			(effects
 				(font
@@ -24815,6 +24969,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C524786"
+			(at 252.73 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "02abf022-22ce-42fb-9c24-4a1c8e77979a")
 		)
@@ -24917,6 +25080,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 87.63 402.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C11702"
 			(at 87.63 402.59 0)
 			(effects
 				(font
@@ -25534,6 +25706,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C1525"
+			(at 196.85 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f9f0b425-9e74-482e-a826-1da201d26700")
 		)
@@ -26140,6 +26321,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C25079"
+			(at 361.95 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "06524795-c9ad-4600-ae07-1ada41447009")
 		)
@@ -26472,6 +26662,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C11702"
+			(at 215.9 403.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "56665af5-4376-4a5e-9b12-922fed4acccd")
 		)
@@ -26597,6 +26796,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 203.2 403.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C11702"
 			(at 203.2 403.86 0)
 			(effects
 				(font
@@ -27582,6 +27790,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C11702"
+			(at 438.15 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f8639171-b93d-4457-acd8-ab28cf3160c4")
 		)
@@ -27977,6 +28194,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C11702"
+			(at 346.71 396.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8f156809-2671-4e1b-8d6a-37a840e112fb")
 		)
@@ -28110,6 +28336,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 82.55 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C11702"
 			(at 82.55 346.71 0)
 			(effects
 				(font
@@ -28252,6 +28487,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C11702"
+			(at 57.15 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "877602fa-3043-4c1f-9489-d5f76704c896")
 		)
@@ -28311,6 +28555,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 231.14 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C25079"
 			(at 231.14 358.14 0)
 			(effects
 				(font
@@ -28833,6 +29086,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C11702"
+			(at 466.09 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "870b248e-8853-4fe8-b5ec-1a04f47a46ee")
 		)
@@ -29032,6 +29294,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C25079"
+			(at 102.87 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bf598057-838d-4304-8fe8-32f4b4e2b7f8")
 		)
@@ -29167,6 +29438,15 @@
 			)
 		)
 		(property "Description" "32Mbps 3.3V RS485 Quad Line Receivers, SOIC-16"
+			(at 383.54 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C524786"
 			(at 383.54 368.3 0)
 			(effects
 				(font
@@ -29432,6 +29712,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C25079"
+			(at 102.87 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6d7c3ffc-9eb3-4313-93d3-c6847679b6b4")
 		)
@@ -29493,6 +29782,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 527.05 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C1525"
 			(at 527.05 234.95 0)
 			(effects
 				(font
@@ -29976,6 +30274,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C11702"
+			(at 468.63 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d5c14885-e124-478e-93c0-caff25bc5e47")
 		)
@@ -30326,6 +30633,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C11702"
+			(at 455.93 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8b28e459-7c28-4387-8f46-8bb855861bf0")
 		)
@@ -30656,6 +30972,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C25079"
+			(at 483.87 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3ef24a9c-8310-4a70-89ba-33c32c1bd2a3")
 		)
@@ -30724,6 +31049,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C11702"
+			(at 74.93 402.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "63f4ae97-29e1-424d-8db7-4fcf8809aa9f")
 		)
@@ -30784,6 +31118,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 334.01 396.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C11702"
 			(at 334.01 396.24 0)
 			(effects
 				(font
@@ -30924,6 +31267,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 398.78 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C1525"
 			(at 398.78 295.91 0)
 			(effects
 				(font
@@ -31342,6 +31694,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C524786"
+			(at 124.46 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "77c724d2-60aa-444b-8f8c-d2e0717142cf")
 		)
@@ -31576,6 +31937,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 130.81 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C1525"
 			(at 130.81 340.36 0)
 			(effects
 				(font
@@ -32022,6 +32392,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C25079"
+			(at 231.14 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f831e592-8362-4fe0-ac42-b074365a3171")
 		)
@@ -32082,6 +32461,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 69.85 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C11702"
 			(at 69.85 346.71 0)
 			(effects
 				(font
@@ -32572,6 +32960,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C11702"
+			(at 314.96 361.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "78ef5a32-45be-40d1-bd27-9ea2b806ce66")
 		)
@@ -32723,6 +33120,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 361.95 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C25079"
 			(at 361.95 358.14 0)
 			(effects
 				(font
@@ -33113,6 +33519,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C1525"
+			(at 327.66 304.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d7d9ad46-6c26-4ce9-822d-5737e921642d")
 		)
@@ -33172,6 +33587,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 483.87 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C25079"
 			(at 483.87 321.31 0)
 			(effects
 				(font
@@ -33449,6 +33873,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C11702"
+			(at 184.15 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dfe074b7-ab73-46c1-a794-c4796ab1bf9d")
 		)
@@ -33509,6 +33942,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 328.93 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C11702"
 			(at 328.93 340.36 0)
 			(effects
 				(font
@@ -33602,7 +34044,7 @@
 		(at 138.43 149.86 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -34159,6 +34601,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C11702"
+			(at 210.82 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "39698f92-9482-4b9f-8b8c-ad3f456465b7")
 		)
@@ -34492,6 +34943,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC ID" "C524786"
+			(at 505.46 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "a81c7cbb-a41a-48b3-8e9b-57554d746952")
 		)
@@ -34659,6 +35119,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 231.14 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC ID" "C25079"
 			(at 231.14 386.08 0)
 			(effects
 				(font
